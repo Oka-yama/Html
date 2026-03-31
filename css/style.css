@@ -6,3 +6,10 @@ body {
 h1 {
     text-align:center;
 }
+
+/* Configuração de classe */
+.preco{
+    color: #ff6600;  /* cor da fonte */
+    font-size: 18px;   /* tamanho da fonte */
+    font-weight: bold; /* negrito */
+}
