@@ -1,0 +1,58 @@
+/* resetar a página de configurações anteriores */
+body{
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 10px;
+    text-align:justify;
+    background-color: #f5f5f5;  
+}
+/* estilizando o cabeçalho */
+header {
+    background-color: #004080;
+    color: #fff;
+    padding: 20px;
+}
+header img {
+    display: block;
+    margin: 0;
+}
+/* Estilizar o menu */
+nav ul {
+    padding: 0;
+    background-color: #0000ff;
+    margin: 0;
+}
+nav ul li {
+    display: inline;
+    padding: 15px;
+}
+nav ul li a{
+    color: #afff;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* Estilizar a seção pacote */
+.pacote {
+    display: inline-block;
+    width: 300px;
+    background-color: #fff;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 2px 10px rgba(0, 0, 0, 2)
+}
+.pacote img {
+    border-radius: 5px;
+}
+/* Configuração de classe */
+.preco {
+    color: #ff6600;   /*   cor da fonte   */
+    font-size: 18px;    /* tamanho da fonte */
+    font-weight: bold;  /*     negrito      */
+}
+/* Estlização do rodapé */
+footer {
+    background-color: #004080;
+    color: #fff;
+    margin: 10px;
+    margin-top: 20px;
+}
