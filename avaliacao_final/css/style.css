@@ -1,0 +1,17 @@
+/* resetar a página de configurações anteriores */
+body{
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 10px;
+    text-align:justify;
+    background-color: #f5f5f5;  
+}
+header{
+    color: rgb(107, 153, 206);
+    background-color: #0000ff;
+    text-align: center;
+}
+nav li {
+    color: #7fffd4;
+    background-color: #000;
+}
